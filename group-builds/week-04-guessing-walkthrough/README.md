@@ -1,5 +1,16 @@
 # Week 04 Group Build: Guessing Walkthrough
 
+## Branch Name
+
+Use this exact feature branch name for this assignment:
+
+```text
+week-04-guessing-walkthrough
+```
+
+Open your pull request from `week-04-guessing-walkthrough` into your repo's `main` branch. Submit the PR link in Canvas when this assignment is collected.
+
+
 Use this folder only if your group wants a shared scratch space. Most weeks, the group build is practice first and Canvas reflection second.
 
 ## Roles

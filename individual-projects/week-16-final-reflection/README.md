@@ -4,6 +4,16 @@
 
 final demo, code review, explanation, and data structures readiness.
 
+## Branch Name
+
+Use this exact feature branch name for this assignment:
+
+```text
+week-16-final-reflection
+```
+
+Open your pull request from `week-16-final-reflection` into your repo's `main` branch. Submit the PR link in Canvas when this assignment is collected.
+
 ## Required Friday Project
 
 Prepare final demo notes and a clear explanation of how to run the project.

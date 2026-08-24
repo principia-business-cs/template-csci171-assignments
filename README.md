@@ -1,4 +1,4 @@
-﻿# CSCI171 Assignment Templates
+# CSCI171 Assignment Templates
 
 This repository holds the reusable assignment materials for CSCI171.
 
@@ -49,6 +49,30 @@ week-02-calculator/
 week-03-decision-quiz/
 week-04-guessing-game/
 ```
+
+
+## Branch Naming Rule
+
+Use the assignment folder name as the feature branch name.
+
+Examples:
+
+```text
+week-01-profile
+week-02-calculator
+week-03-decision-quiz
+```
+
+Keep branch names lowercase, hyphenated, and exactly matching the assignment README. This makes grading easier because every student uses the same branch name for the same assignment.
+
+Submission pattern:
+
+1. Start from `main`.
+2. Create the assignment branch.
+3. Commit your work.
+4. Push the branch.
+5. Open a pull request into your own `main` branch.
+6. Submit the PR link in Canvas.
 
 ## Group Code Policy
 

@@ -4,6 +4,16 @@
 
 strings, indexing, slicing, traversal, and counters.
 
+## Branch Name
+
+Use this exact feature branch name for this assignment:
+
+```text
+week-08-text-analysis
+```
+
+Open your pull request from `week-08-text-analysis` into your repo's `main` branch. Submit the PR link in Canvas when this assignment is collected.
+
 ## Required Friday Project
 
 Analyze text input and report counts or simple patterns.

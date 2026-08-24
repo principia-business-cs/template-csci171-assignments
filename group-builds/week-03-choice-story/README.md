@@ -1,5 +1,16 @@
 # Week 03 Group Build: Choice Story
 
+## Branch Name
+
+Use this exact feature branch name for this assignment:
+
+```text
+week-03-choice-story
+```
+
+Open your pull request from `week-03-choice-story` into your repo's `main` branch. Submit the PR link in Canvas when this assignment is collected.
+
+
 Use this folder only if your group wants a shared scratch space. Most weeks, the group build is practice first and Canvas reflection second.
 
 ## Roles

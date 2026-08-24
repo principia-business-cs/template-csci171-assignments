@@ -4,6 +4,16 @@
 
 event handlers, callbacks, state, and interactive programs.
 
+## Branch Name
+
+Use this exact feature branch name for this assignment:
+
+```text
+week-13-event-toy
+```
+
+Open your pull request from `week-13-event-toy` into your repo's `main` branch. Submit the PR link in Canvas when this assignment is collected.
+
 ## Required Friday Project
 
 Build a small interactive turtle toy controlled by keys or clicks.

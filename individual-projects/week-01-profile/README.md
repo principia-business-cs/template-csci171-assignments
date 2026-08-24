@@ -4,6 +4,16 @@
 
 inputs, variables, and formatted output.
 
+## Branch Name
+
+Use this exact feature branch name for this assignment:
+
+```text
+week-01-profile
+```
+
+Open your pull request from `week-01-profile` into your repo's `main` branch. Submit the PR link in Canvas when this assignment is collected.
+
 ## Required Friday Project
 
 Ask for basic profile information and print a friendly introduction.

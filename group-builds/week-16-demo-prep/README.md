@@ -1,5 +1,16 @@
 # Week 16 Group Build: Demo Prep
 
+## Branch Name
+
+Use this exact feature branch name for this assignment:
+
+```text
+week-16-demo-prep
+```
+
+Open your pull request from `week-16-demo-prep` into your repo's `main` branch. Submit the PR link in Canvas when this assignment is collected.
+
+
 Use this folder only if your group wants a shared scratch space. Most weeks, the group build is practice first and Canvas reflection second.
 
 ## Roles

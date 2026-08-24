@@ -4,6 +4,16 @@
 
 reading files, writing files, paths, and line processing.
 
+## Branch Name
+
+Use this exact feature branch name for this assignment:
+
+```text
+week-12-file-tracker
+```
+
+Open your pull request from `week-12-file-tracker` into your repo's `main` branch. Submit the PR link in Canvas when this assignment is collected.
+
 ## Required Friday Project
 
 Read a small text file and produce a cleaned or summarized result.

@@ -4,6 +4,16 @@
 
 tuples, records, packing/unpacking, and data shape choices.
 
+## Branch Name
+
+Use this exact feature branch name for this assignment:
+
+```text
+week-10-tuple-results
+```
+
+Open your pull request from `week-10-tuple-results` into your repo's `main` branch. Submit the PR link in Canvas when this assignment is collected.
+
 ## Required Friday Project
 
 Represent small records with tuples and report useful summaries.

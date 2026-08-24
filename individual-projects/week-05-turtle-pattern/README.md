@@ -4,6 +4,16 @@
 
 for loops, range, turtle methods, and angles.
 
+## Branch Name
+
+Use this exact feature branch name for this assignment:
+
+```text
+week-05-turtle-pattern
+```
+
+Open your pull request from `week-05-turtle-pattern` into your repo's `main` branch. Submit the PR link in Canvas when this assignment is collected.
+
 ## Required Friday Project
 
 Draw a repeated turtle pattern using at least one for loop.

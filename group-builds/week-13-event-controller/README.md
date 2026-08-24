@@ -1,5 +1,16 @@
 # Week 13 Group Build: Event Controller
 
+## Branch Name
+
+Use this exact feature branch name for this assignment:
+
+```text
+week-13-event-controller
+```
+
+Open your pull request from `week-13-event-controller` into your repo's `main` branch. Submit the PR link in Canvas when this assignment is collected.
+
+
 Use this folder only if your group wants a shared scratch space. Most weeks, the group build is practice first and Canvas reflection second.
 
 ## Roles

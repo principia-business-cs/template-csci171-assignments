@@ -4,6 +4,16 @@
 
 imports, namespaces, and reusable helper files.
 
+## Branch Name
+
+Use this exact feature branch name for this assignment:
+
+```text
+week-11-utility-module
+```
+
+Open your pull request from `week-11-utility-module` into your repo's `main` branch. Submit the PR link in Canvas when this assignment is collected.
+
 ## Required Friday Project
 
 Split a program into a main file plus a small helper module.

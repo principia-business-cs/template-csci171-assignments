@@ -4,6 +4,16 @@
 
 while loops, sentinels, counters, and debugging loops.
 
+## Branch Name
+
+Use this exact feature branch name for this assignment:
+
+```text
+week-04-guessing-game
+```
+
+Open your pull request from `week-04-guessing-game` into your repo's `main` branch. Submit the PR link in Canvas when this assignment is collected.
+
 ## Required Friday Project
 
 Build a number guessing game with feedback and a turn counter.

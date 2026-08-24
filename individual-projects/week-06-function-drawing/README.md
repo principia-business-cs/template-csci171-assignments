@@ -4,6 +4,16 @@
 
 function definitions, parameters, arguments, and reuse.
 
+## Branch Name
+
+Use this exact feature branch name for this assignment:
+
+```text
+week-06-function-drawing
+```
+
+Open your pull request from `week-06-function-drawing` into your repo's `main` branch. Submit the PR link in Canvas when this assignment is collected.
+
 ## Required Friday Project
 
 Turn repeated turtle drawing into named functions with parameters.

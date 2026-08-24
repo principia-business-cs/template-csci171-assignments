@@ -1,5 +1,12 @@
 # Assignment Index
 
+
+## Branch Names
+
+Use the assignment folder name as the feature branch name. For example, `individual-projects/week-01-profile/` uses branch `week-01-profile`.
+
+When an assignment is collected, open a pull request from that branch into your repo's `main` branch and submit the PR link in Canvas.
+
 ## Group Builds
 
 - `group-builds/week-01-error-detective/`
