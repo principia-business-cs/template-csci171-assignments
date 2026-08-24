@@ -1,4 +1,11 @@
-﻿# Assignment Index
+# Assignment Index
+
+
+## Branch Names
+
+Use the assignment folder name as the feature branch name. For example, `individual-projects/week-01-profile/` uses branch `week-01-profile`.
+
+When an assignment is collected, open a pull request from that branch into your repo's `main` branch and submit the PR link in Canvas.
 
 ## Group Builds
 
@@ -38,4 +45,5 @@
 - `individual-projects/week-15-small-class/`
 - `individual-projects/week-16-final-reflection/`
 
-Folders will be populated as each week is developed.
+Each folder includes a short `README.md` plus a starter file or scratch file. Keep required Friday work in the individual project folders. Use group-build folders only when a class group needs shared scratch code; the normal group evidence is the short Canvas reflection.
+
