@@ -31,22 +31,35 @@ After your program works, add one tiny bug on purpose, run it, read the error, a
 
 ## Bug Examples To Fix
 
-Try these one at a time in `scratch.py`. Uncomment one broken line, run the program, read the error, then fix it before trying the next one.
+Try these one at a time in `scratch.py`.
+
+For each bug:
+
+1. Uncomment only that bug.
+2. Run the program.
+3. Write down what Python says.
+4. Identify the problem.
+5. Fix it.
+6. Add a comment explaining your fix.
 
 ```python
-print("Missing end quote)
-print(Hello without quotes)
-print("Age: " + 18)
-print("Total minutes: " 110 * 3)
+# Bug A
+print("Welcome to CSCI171)
+
+# Bug B
+print(Welcome to Python)
+
+# Bug C
+print("Class minutes: " + 110)
+
+# Bug D
+print("Three classes are" 110 * 3 "minutes")
+
+# Bug E
 print("One", "two", "three"
 ```
 
-Useful questions:
-
-- Is the text inside quotation marks?
-- Do opening and closing parentheses match?
-- Are you combining text and numbers safely?
-- Is there an operator between the pieces?
+Do not fix these by deleting the line. The goal is to make each line print something useful.
 
 ## Done When
 
