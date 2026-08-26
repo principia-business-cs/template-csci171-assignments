@@ -10,8 +10,24 @@ week-02-calculator-remix
 
 Open your pull request from `week-02-calculator-remix` into your repo's `main` branch. Submit the PR link in Canvas when this assignment is collected.
 
-
 Use this folder only if your group wants a shared scratch space. Most weeks, the group build is practice first and Canvas reflection second.
+
+## What To Build
+
+- Build a calculator that asks for two numbers.
+- Print the sum, difference, product, and quotient.
+- Add labels so the output is easy to read.
+- Test with one normal example and one tricky example, such as zero or decimals.
+
+## Done When
+
+- The program uses variables for inputs and results.
+- At least four calculations work.
+- The group can explain why numeric input must be converted.
+
+## Optional Remix
+
+Add one extra calculation, such as average, remainder, or total cost with tax.
 
 ## Roles
 

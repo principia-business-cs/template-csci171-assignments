@@ -10,8 +10,24 @@ week-06-turtle-functions
 
 Open your pull request from `week-06-turtle-functions` into your repo's `main` branch. Submit the PR link in Canvas when this assignment is collected.
 
-
 Use this folder only if your group wants a shared scratch space. Most weeks, the group build is practice first and Canvas reflection second.
+
+## What To Build
+
+- Create at least three turtle functions, such as `draw_square()`, `draw_triangle()`, and `move_to_start()`.
+- Use those functions to build one larger picture.
+- Give each function one clear job.
+- Call each function more than once if possible.
+
+## Done When
+
+- The program is organized into named functions.
+- Function names describe what they do.
+- The group can explain why functions reduce repeated code.
+
+## Optional Remix
+
+Add parameters, such as size or color, to one function.
 
 ## Roles
 
