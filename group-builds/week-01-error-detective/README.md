@@ -29,6 +29,25 @@ Your program should include:
 
 After your program works, add one tiny bug on purpose, run it, read the error, and then fix it. Leave a comment explaining the clue that helped.
 
+## Bug Examples To Fix
+
+Try these one at a time in `scratch.py`. Uncomment one broken line, run the program, read the error, then fix it before trying the next one.
+
+```python
+print("Missing end quote)
+print(Hello without quotes)
+print("Age: " + 18)
+print("Total minutes: " 110 * 3)
+print("One", "two", "three"
+```
+
+Useful questions:
+
+- Is the text inside quotation marks?
+- Do opening and closing parentheses match?
+- Are you combining text and numbers safely?
+- Is there an operator between the pieces?
+
 ## Done When
 
 - The program runs without crashing.
