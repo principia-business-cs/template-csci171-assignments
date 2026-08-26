@@ -7,8 +7,19 @@ after the required program runs and is easy to explain.
 
 
 def main():
-    # TODO: Build the Week 01 project here.
+    # TODO: Replace these sample values with your own.
+    name = "Your Name"
+    hometown = "Your Hometown"
+    favorite_food = "Your Favorite Food"
+    year = 2026
+
     print("Week 01: Personal Intro Program")
+    print()
+    print("Name: " + name)
+    print("Hometown:", hometown)
+    print("Favorite food: " + favorite_food)
+    print("One week has", 7 * 24, "hours.")
+    print("This program was written in", year)
 
 
 if __name__ == "__main__":

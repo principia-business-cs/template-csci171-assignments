@@ -1,4 +1,4 @@
-# Week 01 Group Build: Error Detective
+# Week 01 Group Build: Print Playground And Error Detective
 
 ## Branch Name
 
@@ -10,8 +10,35 @@ week-01-error-detective
 
 Open your pull request from `week-01-error-detective` into your repo's `main` branch. Submit the PR link in Canvas when this assignment is collected.
 
-
 Use this folder only if your group wants a shared scratch space. Most weeks, the group build is practice first and Canvas reflection second.
+
+## What To Build
+
+Build a small "print playground" that teaches your group what Python can print.
+
+Your program should include:
+
+- A title printed with `print()`.
+- At least six lines of output.
+- One intentional blank line using `print()`.
+- One line made with string concatenation using `+`.
+- One line that prints a math expression, such as `7 * 24`.
+- One line that prints text and a calculated number together.
+- At least one variable used in printed output.
+- Three comments explaining something your group learned.
+
+After your program works, add one tiny bug on purpose, run it, read the error, and then fix it. Leave a comment explaining the clue that helped.
+
+## Done When
+
+- The program runs without crashing.
+- The output has multiple readable lines.
+- The program uses text, variables, concatenation, and math.
+- Your group can explain at least one error message you saw.
+
+## Optional Remix
+
+Turn the output into a tiny poster, ticket, menu, scoreboard, or character card.
 
 ## Roles
 
