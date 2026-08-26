@@ -10,8 +10,24 @@ week-01-error-detective
 
 Open your pull request from `week-01-error-detective` into your repo's `main` branch. Submit the PR link in Canvas when this assignment is collected.
 
-
 Use this folder only if your group wants a shared scratch space. Most weeks, the group build is practice first and Canvas reflection second.
+
+## What To Build
+
+- Run the starter code and identify every error or confusing line.
+- Fix the program one small change at a time.
+- Add one new printed line that proves your group understands how `print()` works.
+- Write three notes in `scratch.py` comments: what broke, how you fixed it, and what clue helped.
+
+## Done When
+
+- The program runs without crashing.
+- The output is readable.
+- Your group can explain at least two bugs you fixed.
+
+## Optional Remix
+
+Create a tiny broken program for another group to debug.
 
 ## Roles
 
