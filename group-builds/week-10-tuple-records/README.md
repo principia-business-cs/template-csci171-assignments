@@ -10,8 +10,24 @@ week-10-tuple-records
 
 Open your pull request from `week-10-tuple-records` into your repo's `main` branch. Submit the PR link in Canvas when this assignment is collected.
 
-
 Use this folder only if your group wants a shared scratch space. Most weeks, the group build is practice first and Canvas reflection second.
+
+## What To Build
+
+- Represent small records with tuples, such as `(name, score)` or `(x, y)`.
+- Create a list of at least three records.
+- Loop through the records and print them clearly.
+- Calculate or identify something useful from the records.
+
+## Done When
+
+- The program uses tuples for grouped values.
+- The output labels each part of the tuple.
+- The group can explain when a tuple is useful.
+
+## Optional Remix
+
+Return a tuple from a function, such as `(minimum, maximum, average)`.
 
 ## Roles
 

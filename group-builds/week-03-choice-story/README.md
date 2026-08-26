@@ -10,8 +10,24 @@ week-03-choice-story
 
 Open your pull request from `week-03-choice-story` into your repo's `main` branch. Submit the PR link in Canvas when this assignment is collected.
 
-
 Use this folder only if your group wants a shared scratch space. Most weeks, the group build is practice first and Canvas reflection second.
+
+## What To Build
+
+- Build a short story where the user makes at least two choices.
+- Use `if`, `elif`, and `else` to choose what happens.
+- Print a different ending for at least three possible paths.
+- Include one response for unexpected input.
+
+## Done When
+
+- The story has at least two decision points.
+- Every path prints a clear result.
+- Unexpected input does not make the program feel unfinished.
+
+## Optional Remix
+
+Add score, courage, or inventory as a variable that changes the ending.
 
 ## Roles
 
