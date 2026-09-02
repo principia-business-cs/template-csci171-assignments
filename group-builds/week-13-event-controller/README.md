@@ -1,43 +1,34 @@
-# Week 13 Group Build: Event Controller
+# Week 13: Keyboard Turtle Controller
 
-## Branch Name
+## Textbook Grounding
 
-Use this exact feature branch name for this assignment:
+Official textbook: *How to Think Like a Computer Scientist: Learning with Python 3*.
 
-```text
-week-13-event-controller
-```
+- Primary connection: Chapter 10: Event handling
+- Main ideas: callbacks and key events
 
-Open your pull request from `week-13-event-controller` into your repo's `main` branch. Submit the PR link in Canvas when this assignment is collected.
+## Group Build Goal
 
-Use this folder only if your group wants a shared scratch space. Most weeks, the group build is practice first and Canvas reflection second.
+Control a turtle with keyboard events.
 
-## What To Build
+## Requirements I Will Look For During Class
 
-- Create a turtle program that responds to keyboard events.
-- Bind at least four keys to actions, such as move, turn, change color, or reset.
-- Keep the window open so the user can interact with it.
-- Add comments naming which key does what.
+- [ ] Everyone in the group can explain the main idea.
+- [ ] The group runs the code at least once.
+- [ ] The group identifies what changed and why.
+- [ ] The group connects the code to this week's textbook idea.
+- [ ] The group writes down one question or confusion to bring back to class.
 
-## Done When
+## Canvas Reflection Prompt
 
-- At least four key events work.
-- The program responds without restarting.
-- The group can explain the difference between sequential code and event-driven code.
+Submit a short reflection if assigned in Canvas:
 
-## Optional Remix
+1. Who was in your group?
+2. What did your group build or fix?
+3. What textbook idea did it practice?
+4. What was one useful disagreement, mistake, or discovery?
+5. What would you try next with five more minutes?
 
-Add a simple goal, such as reaching a target or drawing with different colors.
+## Files
 
-## Roles
-
-- Driver: types the current version
-- Navigator: watches logic and asks questions
-- Tester: tries examples and edge cases
-- Explainer: prepares the short summary
-
-Rotate roles during class when it helps.
-
-## Reflection Prompt
-
-Each student should be ready to submit a short Canvas reflection: what your group built, what you contributed, and one thing your group learned.
+- `scratch.py`: group scratch space

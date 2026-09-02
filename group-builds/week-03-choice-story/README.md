@@ -1,43 +1,34 @@
-# Week 03 Group Build: Choice Story
+# Week 03: Choose-Your-Path Story
 
-## Branch Name
+## Textbook Grounding
 
-Use this exact feature branch name for this assignment:
+Official textbook: *How to Think Like a Computer Scientist: Learning with Python 3*.
 
-```text
-week-03-choice-story
-```
+- Primary connection: Chapter 5: Conditionals
+- Main ideas: if/elif/else and Boolean decisions
 
-Open your pull request from `week-03-choice-story` into your repo's `main` branch. Submit the PR link in Canvas when this assignment is collected.
+## Group Build Goal
 
-Use this folder only if your group wants a shared scratch space. Most weeks, the group build is practice first and Canvas reflection second.
+Build a tiny branching story with at least three meaningful choices.
 
-## What To Build
+## Requirements I Will Look For During Class
 
-- Build a short story where the user makes at least two choices.
-- Use `if`, `elif`, and `else` to choose what happens.
-- Print a different ending for at least three possible paths.
-- Include one response for unexpected input.
+- [ ] Everyone in the group can explain the main idea.
+- [ ] The group runs the code at least once.
+- [ ] The group identifies what changed and why.
+- [ ] The group connects the code to this week's textbook idea.
+- [ ] The group writes down one question or confusion to bring back to class.
 
-## Done When
+## Canvas Reflection Prompt
 
-- The story has at least two decision points.
-- Every path prints a clear result.
-- Unexpected input does not make the program feel unfinished.
+Submit a short reflection if assigned in Canvas:
 
-## Optional Remix
+1. Who was in your group?
+2. What did your group build or fix?
+3. What textbook idea did it practice?
+4. What was one useful disagreement, mistake, or discovery?
+5. What would you try next with five more minutes?
 
-Add score, courage, or inventory as a variable that changes the ending.
+## Files
 
-## Roles
-
-- Driver: types the current version
-- Navigator: watches logic and asks questions
-- Tester: tries examples and edge cases
-- Explainer: prepares the short summary
-
-Rotate roles during class when it helps.
-
-## Reflection Prompt
-
-Each student should be ready to submit a short Canvas reflection: what your group built, what you contributed, and one thing your group learned.
+- `scratch.py`: group scratch space

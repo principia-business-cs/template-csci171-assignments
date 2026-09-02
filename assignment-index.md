@@ -7,6 +7,26 @@ Use the assignment folder name as the feature branch name. For example, `individ
 
 When an assignment is collected, open a pull request from that branch into your repo's `main` branch and submit the PR link in Canvas.
 
+
+## What Each Individual Project Contains
+
+Each individual project folder now includes:
+
+```text
+README.md
+starter.py
+notes.md
+grading-checklist.md
+```
+
+The `README.md` is the source of truth for the assignment. The `grading-checklist.md` repeats the checkable requirements in a compact form.
+
+Each Friday project has:
+
+- required textbook-level work
+- Stretch 1: a solid extension most students can attempt after finishing the required work
+- Stretch 2: a challenge extension for students who already know some programming
+
 ## Group Builds
 
 - `group-builds/week-01-error-detective/`

@@ -1,43 +1,34 @@
-# Week 07 Group Build: Function Tests
+# Week 07: Test-Driven Function Set
 
-## Branch Name
+## Textbook Grounding
 
-Use this exact feature branch name for this assignment:
+Official textbook: *How to Think Like a Computer Scientist: Learning with Python 3*.
 
-```text
-week-07-function-tests
-```
+- Primary connection: Chapter 6: Fruitful functions
+- Main ideas: return values and tests
 
-Open your pull request from `week-07-function-tests` into your repo's `main` branch. Submit the PR link in Canvas when this assignment is collected.
+## Group Build Goal
 
-Use this folder only if your group wants a shared scratch space. Most weeks, the group build is practice first and Canvas reflection second.
+Write small fruitful functions and test expected return values.
 
-## What To Build
+## Requirements I Will Look For During Class
 
-- Write at least three fruitful functions that return answers.
-- Create simple tests by calling each function with known inputs.
-- Print both the expected result and the actual result.
-- Fix any function that does not match the expected result.
+- [ ] Everyone in the group can explain the main idea.
+- [ ] The group runs the code at least once.
+- [ ] The group identifies what changed and why.
+- [ ] The group connects the code to this week's textbook idea.
+- [ ] The group writes down one question or confusion to bring back to class.
 
-## Done When
+## Canvas Reflection Prompt
 
-- Each function uses `return`.
-- Tests show normal and edge cases.
-- The group can explain the difference between printing and returning.
+Submit a short reflection if assigned in Canvas:
 
-## Optional Remix
+1. Who was in your group?
+2. What did your group build or fix?
+3. What textbook idea did it practice?
+4. What was one useful disagreement, mistake, or discovery?
+5. What would you try next with five more minutes?
 
-Add a small test helper function that prints PASS or CHECK.
+## Files
 
-## Roles
-
-- Driver: types the current version
-- Navigator: watches logic and asks questions
-- Tester: tries examples and edge cases
-- Explainer: prepares the short summary
-
-Rotate roles during class when it helps.
-
-## Reflection Prompt
-
-Each student should be ready to submit a short Canvas reflection: what your group built, what you contributed, and one thing your group learned.
+- `scratch.py`: group scratch space

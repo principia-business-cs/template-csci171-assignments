@@ -1,43 +1,34 @@
-# Week 14 Group Build: Algorithm Clinic
+# Week 14: Algorithm Clinic
 
-## Branch Name
+## Textbook Grounding
 
-Use this exact feature branch name for this assignment:
+Official textbook: *How to Think Like a Computer Scientist: Learning with Python 3*.
 
-```text
-week-14-algorithm-clinic
-```
+- Primary connection: Chapter 14: List Algorithms
+- Main ideas: search, accumulation, best-so-far
 
-Open your pull request from `week-14-algorithm-clinic` into your repo's `main` branch. Submit the PR link in Canvas when this assignment is collected.
+## Group Build Goal
 
-Use this folder only if your group wants a shared scratch space. Most weeks, the group build is practice first and Canvas reflection second.
+Trace and implement common list algorithm patterns.
 
-## What To Build
+## Requirements I Will Look For During Class
 
-- Choose one problem from recent work that can be solved step by step.
-- Write the algorithm in plain English first.
-- Turn the algorithm into Python code.
-- Test with at least three cases and revise the steps if needed.
+- [ ] Everyone in the group can explain the main idea.
+- [ ] The group runs the code at least once.
+- [ ] The group identifies what changed and why.
+- [ ] The group connects the code to this week's textbook idea.
+- [ ] The group writes down one question or confusion to bring back to class.
 
-## Done When
+## Canvas Reflection Prompt
 
-- The plain-English algorithm is clear.
-- The code follows the algorithm.
-- The group can explain one revision made after testing.
+Submit a short reflection if assigned in Canvas:
 
-## Optional Remix
+1. Who was in your group?
+2. What did your group build or fix?
+3. What textbook idea did it practice?
+4. What was one useful disagreement, mistake, or discovery?
+5. What would you try next with five more minutes?
 
-Compare two algorithms for the same task and explain which is clearer.
+## Files
 
-## Roles
-
-- Driver: types the current version
-- Navigator: watches logic and asks questions
-- Tester: tries examples and edge cases
-- Explainer: prepares the short summary
-
-Rotate roles during class when it helps.
-
-## Reflection Prompt
-
-Each student should be ready to submit a short Canvas reflection: what your group built, what you contributed, and one thing your group learned.
+- `scratch.py`: group scratch space

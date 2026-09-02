@@ -1,43 +1,34 @@
-# Week 05 Group Build: Turtle Without Magic
+# Week 05: Turtle Without Magic
 
-## Branch Name
+## Textbook Grounding
 
-Use this exact feature branch name for this assignment:
+Official textbook: *How to Think Like a Computer Scientist: Learning with Python 3*.
 
-```text
-week-05-turtle-without-magic
-```
+- Primary connection: Chapter 3 and Chapter 7
+- Main ideas: turtle commands and for loops
 
-Open your pull request from `week-05-turtle-without-magic` into your repo's `main` branch. Submit the PR link in Canvas when this assignment is collected.
+## Group Build Goal
 
-Use this folder only if your group wants a shared scratch space. Most weeks, the group build is practice first and Canvas reflection second.
+Turn repeated turtle commands into a loop-based pattern.
 
-## What To Build
+## Requirements I Will Look For During Class
 
-- Use turtle graphics to draw a repeated pattern.
-- Start with one shape, then use a `for` loop to repeat it.
-- Change at least one value each time through the loop, such as angle, length, or color.
-- Keep the code readable enough that another group could modify it.
+- [ ] Everyone in the group can explain the main idea.
+- [ ] The group runs the code at least once.
+- [ ] The group identifies what changed and why.
+- [ ] The group connects the code to this week's textbook idea.
+- [ ] The group writes down one question or confusion to bring back to class.
 
-## Done When
+## Canvas Reflection Prompt
 
-- The drawing uses a loop instead of repeated copy/paste commands.
-- The pattern appears on screen.
-- The group can explain what changes each loop iteration.
+Submit a short reflection if assigned in Canvas:
 
-## Optional Remix
+1. Who was in your group?
+2. What did your group build or fix?
+3. What textbook idea did it practice?
+4. What was one useful disagreement, mistake, or discovery?
+5. What would you try next with five more minutes?
 
-Turn the pattern into a simple logo, badge, or tiny game board.
+## Files
 
-## Roles
-
-- Driver: types the current version
-- Navigator: watches logic and asks questions
-- Tester: tries examples and edge cases
-- Explainer: prepares the short summary
-
-Rotate roles during class when it helps.
-
-## Reflection Prompt
-
-Each student should be ready to submit a short Canvas reflection: what your group built, what you contributed, and one thing your group learned.
+- `scratch.py`: group scratch space

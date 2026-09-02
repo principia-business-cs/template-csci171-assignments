@@ -1,43 +1,34 @@
-# Week 11 Group Build: Module Exploration
+# Week 11: Module Exploration
 
-## Branch Name
+## Textbook Grounding
 
-Use this exact feature branch name for this assignment:
+Official textbook: *How to Think Like a Computer Scientist: Learning with Python 3*.
 
-```text
-week-11-module-exploration
-```
+- Primary connection: Chapter 12: Modules
+- Main ideas: imports and namespaces
 
-Open your pull request from `week-11-module-exploration` into your repo's `main` branch. Submit the PR link in Canvas when this assignment is collected.
+## Group Build Goal
 
-Use this folder only if your group wants a shared scratch space. Most weeks, the group build is practice first and Canvas reflection second.
+Explore a module and write a short program using its functions.
 
-## What To Build
+## Requirements I Will Look For During Class
 
-- Choose one useful Python module, such as `math`, `random`, or `datetime`.
-- Import the module and use at least three features from it.
-- Build a tiny utility that would be annoying to write from scratch.
-- Print examples showing what the module helped you do.
+- [ ] Everyone in the group can explain the main idea.
+- [ ] The group runs the code at least once.
+- [ ] The group identifies what changed and why.
+- [ ] The group connects the code to this week's textbook idea.
+- [ ] The group writes down one question or confusion to bring back to class.
 
-## Done When
+## Canvas Reflection Prompt
 
-- The program imports a module.
-- At least three module features run correctly.
-- The group can explain why programmers use modules.
+Submit a short reflection if assigned in Canvas:
 
-## Optional Remix
+1. Who was in your group?
+2. What did your group build or fix?
+3. What textbook idea did it practice?
+4. What was one useful disagreement, mistake, or discovery?
+5. What would you try next with five more minutes?
 
-Combine two modules in one small program.
+## Files
 
-## Roles
-
-- Driver: types the current version
-- Navigator: watches logic and asks questions
-- Tester: tries examples and edge cases
-- Explainer: prepares the short summary
-
-Rotate roles during class when it helps.
-
-## Reflection Prompt
-
-Each student should be ready to submit a short Canvas reflection: what your group built, what you contributed, and one thing your group learned.
+- `scratch.py`: group scratch space

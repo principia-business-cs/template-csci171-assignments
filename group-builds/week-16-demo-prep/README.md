@@ -1,43 +1,34 @@
-# Week 16 Group Build: Demo Prep
+# Week 16: Final Demo Prep
 
-## Branch Name
+## Textbook Grounding
 
-Use this exact feature branch name for this assignment:
+Official textbook: *How to Think Like a Computer Scientist: Learning with Python 3*.
 
-```text
-week-16-demo-prep
-```
+- Primary connection: Chapter 16: Classes and Objects - Digging deeper
+- Main ideas: object state and final integration
 
-Open your pull request from `week-16-demo-prep` into your repo's `main` branch. Submit the PR link in Canvas when this assignment is collected.
+## Group Build Goal
 
-Use this folder only if your group wants a shared scratch space. Most weeks, the group build is practice first and Canvas reflection second.
+Prepare a short demo plan and improve a final project feature.
 
-## What To Build
+## Requirements I Will Look For During Class
 
-- Choose one program from the semester to improve or explain.
-- Identify the main idea, inputs, outputs, and one interesting code decision.
-- Prepare a short demo that shows the program working.
-- Write down one thing you would improve with more time.
+- [ ] Everyone in the group can explain the main idea.
+- [ ] The group runs the code at least once.
+- [ ] The group identifies what changed and why.
+- [ ] The group connects the code to this week's textbook idea.
+- [ ] The group writes down one question or confusion to bring back to class.
 
-## Done When
+## Canvas Reflection Prompt
 
-- The demo runs.
-- The group can explain the code without reading every line.
-- The group has one clear improvement idea.
+Submit a short reflection if assigned in Canvas:
 
-## Optional Remix
+1. Who was in your group?
+2. What did your group build or fix?
+3. What textbook idea did it practice?
+4. What was one useful disagreement, mistake, or discovery?
+5. What would you try next with five more minutes?
 
-Add one tiny polish feature before the demo, such as better labels or input validation.
+## Files
 
-## Roles
-
-- Driver: types the current version
-- Navigator: watches logic and asks questions
-- Tester: tries examples and edge cases
-- Explainer: prepares the short summary
-
-Rotate roles during class when it helps.
-
-## Reflection Prompt
-
-Each student should be ready to submit a short Canvas reflection: what your group built, what you contributed, and one thing your group learned.
+- `scratch.py`: group scratch space

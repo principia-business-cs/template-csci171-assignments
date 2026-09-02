@@ -1,43 +1,34 @@
-# Week 04 Group Build: Guessing Walkthrough
+# Week 04: Guessing Game Walkthrough
 
-## Branch Name
+## Textbook Grounding
 
-Use this exact feature branch name for this assignment:
+Official textbook: *How to Think Like a Computer Scientist: Learning with Python 3*.
 
-```text
-week-04-guessing-walkthrough
-```
+- Primary connection: Chapter 7: Iteration
+- Main ideas: while loops and sentinels
 
-Open your pull request from `week-04-guessing-walkthrough` into your repo's `main` branch. Submit the PR link in Canvas when this assignment is collected.
+## Group Build Goal
 
-Use this folder only if your group wants a shared scratch space. Most weeks, the group build is practice first and Canvas reflection second.
+Trace and improve a guessing-game loop so it stops correctly.
 
-## What To Build
+## Requirements I Will Look For During Class
 
-- Build a number guessing game as a group.
-- Use a `while` loop so the player can keep guessing.
-- Tell the player whether each guess is too high, too low, or correct.
-- Use a sentinel or stopping condition so the loop ends cleanly.
+- [ ] Everyone in the group can explain the main idea.
+- [ ] The group runs the code at least once.
+- [ ] The group identifies what changed and why.
+- [ ] The group connects the code to this week's textbook idea.
+- [ ] The group writes down one question or confusion to bring back to class.
 
-## Done When
+## Canvas Reflection Prompt
 
-- The game repeats until the player wins or stops.
-- The loop condition is easy to explain.
-- The group can define sentinel and point to one in the code.
+Submit a short reflection if assigned in Canvas:
 
-## Optional Remix
+1. Who was in your group?
+2. What did your group build or fix?
+3. What textbook idea did it practice?
+4. What was one useful disagreement, mistake, or discovery?
+5. What would you try next with five more minutes?
 
-Add a guess counter or a quit option such as `q`.
+## Files
 
-## Roles
-
-- Driver: types the current version
-- Navigator: watches logic and asks questions
-- Tester: tries examples and edge cases
-- Explainer: prepares the short summary
-
-Rotate roles during class when it helps.
-
-## Reflection Prompt
-
-Each student should be ready to submit a short Canvas reflection: what your group built, what you contributed, and one thing your group learned.
+- `scratch.py`: group scratch space
